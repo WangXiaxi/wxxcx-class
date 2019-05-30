@@ -1,0 +1,2 @@
+<!--components/test/test.wxml-->
+<text bindtap='clickMe'>{{content.text}}2334</text>
